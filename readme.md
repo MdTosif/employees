@@ -24,3 +24,4 @@
 
 - the data of db is always in memory so it can be hard when db gets too large
 - the requirment was “ID”, “Name”, “Email”, “Phone Number” but I changed them to "id", "name", "phoneNumber", "email". It can be changed in the res.json but it make the code more complicate to handle in future
+- adding unit tests
